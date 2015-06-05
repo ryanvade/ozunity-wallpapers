@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+	<wallpaper deleted="false">
+		<name>Archane Circle 01</name>
+		<filename>/usr/share/backgrounds/Archane_Circles_01.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Archane Circles 02</name>
+		<filename>/usr/share/backgrounds/Archane_Circles_02.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Archane Circles 03</name>
+		<filename>/usr/share/backgrounds/Archane_Circles_03.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Archane Circles 04</name>
+		<filename>/usr/share/backgrounds/Archane_Circles_04.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Archane Circles 05</name>
+		<filename>/usr/share/backgrounds/Archane_Circles_05.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Archane Circles 06</name>
+		<filename>/usr/share/backgrounds/Archane_Circles_06.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Archane Circles 07</name>
+		<filename>/usr/share/backgrounds/Archane_Circles_07.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+    <wallpaper deleted="false">
+		<name>Archane Circles 08</name>
+		<filename>/usr/share/backgrounds/Archane_Circles_08.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
+</wallpapers>
