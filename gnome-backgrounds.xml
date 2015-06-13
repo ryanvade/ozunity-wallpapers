@@ -57,4 +57,11 @@
     <pcolor>#ffffff</pcolor>
     <scolor>#000000</scolor>
 	</wallpaper>
+	<wallpaper deleted="false">
+		<name>Smokey</name>
+		<filename>/usr/share/backgrounds/Smokey_Emerald_Edition.jpg</filename>
+		<options>zoom</options>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+	</wallpaper>
 </wallpapers>
